@@ -75,3 +75,31 @@ ZyoraByte Frontend Internship
 Week 2 Team Project
 
 RecipeBox – Recipe Finder
+
+---
+## Team Contributions
+
+### Iswarya C.P
+- Designed the Home Page
+- Built the Search Page
+- Integrated TheMealDB API using fetch()
+- Added form validation
+- Implemented search functionality
+- Improved responsive design
+
+### Vijaya Tharshini
+- Developed the Recipe Details page
+- Developed the Favorites page
+- Assisted in testing and project review
+
+---
+
+## What We Learned
+
+- HTML5 page structuring
+- CSS styling and responsive design
+- JavaScript DOM manipulation
+- Fetch API integration
+- Local Storage
+- Git & GitHub collaboration
+- Teamwork and project development
